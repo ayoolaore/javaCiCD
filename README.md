@@ -112,7 +112,10 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 =======
 # javaCiCD
+<<<<<<< HEAD
 GitHub Actions with AWS CICD architecture
 
 https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/
 >>>>>>> 9795386e1cd571a0bdef9a3c74fb13080c46cf32
+=======
+>>>>>>> 2cb1d0caad78b05a7f68eec404628ac509f886e3
